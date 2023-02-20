@@ -1,0 +1,16 @@
+
+.header .avatar {
+    overflow: hidden;
+    width: 165px;
+    height: 165px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+   box-shadow: 0rem 0rem 1rem 1rem rgba(0, 0, 0, 0.35);
+ 
+}
+
+.header .avatar img {
+    width: 100%;
+}
