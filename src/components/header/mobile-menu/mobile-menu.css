@@ -1,6 +1,6 @@
 .header .mobile-bar {
-    background: #f99c2a;
-    color: #000000;
+    background: #1f1e1e;
+    color: #000000be;
     height: 50px;
     right: -59px;
     left: 260px;
@@ -31,7 +31,8 @@
 .header .bar {
     position: relative;
     transform: translateY(25px);
-    background: #ffffff;
+    background: #dadada;
+    box-shadow: 0rem 0rem 0.3rem 0.3rem rgba(255, 255, 255, 0.336);
     transition: all 0 300ms;
 }
 
@@ -44,8 +45,8 @@
     position: absolute;
     left: 0;
     bottom: 10px;
-    background: #f0c695;
-    ;
+    background: #5e0c01;
+    box-shadow: 0rem 0rem 0.3rem 0.3rem rgba(230, 105, 105, 0.336);
     transition: bottom 300ms 300ms cubic-bezier(0.23,1,0.32,1),transform 300ms cubic-bezier(0.23,1,0.32,1);
 }
 
@@ -54,7 +55,8 @@
     position: absolute;
     left: 0;
     top: 10px;
-    background: #f0c695;
+    background: #5e0c01;
+    box-shadow: 0rem 0rem 0.3rem 0.3rem rgba(230, 105, 105, 0.336);
     transition: top 300ms 300ms cubic-bezier(0.23,1,0.32,1),transform 300ms cubic-bezier(0.23,1,0.32,1);
 }
 

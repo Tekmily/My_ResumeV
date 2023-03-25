@@ -9,7 +9,7 @@
 }
 
 .header .main-nav ul li a {
-    color: #fff;
+    color: #dadada;
     font-family: 'Poppins', sans-serif;
     font-size: 12px;
     font-weight: 400;
@@ -23,6 +23,6 @@
 }
 
 .header .main-nav ul li a:hover,.header .main-nav ul li a:focus {
-    color: #FFF;
+    color: #dadada;
     text-decoration: none;
 }
